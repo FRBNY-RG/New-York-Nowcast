@@ -1,0 +1,32 @@
+SeriesID,SeriesName,Frequency,Trend,Block0_Global,Block1_Soft,Block2_Nominal,Block3_Labor,Block4_COVID,Prior,Units,Transformation,Category
+PAYEMS,All Employees: Total nonfarm,m,0,1,0,0,100,100,1,Level chg. (thousands),chg,Labor
+JTSJOL,JOLTS: Total job openings,m,0,1,0,0,1,1,1,Level chg. (thousands),chg,Labor
+UNRATE,Civilian unemployment rate,m,0,1,0,0,1,1,-1,Ppt. chg.,chg,Labor
+ADPMNUSNERSA,ADP nonfarm private payroll employment,m,0,1,0,0,1,1,1,Level chg. (thousands),chg,Labor
+GACDISA066MSFRBNY,Empire State Mfg. Survey: General business conditions,m,0,1,1,0,0,1,1,Index,lin,Surveys
+GACDFSA066MSFRBPHI,Philadelphia Fed Mfg. Business Outlook: Current activity,m,0,1,1,0,0,1,1,Index,lin,Surveys
+INDPRO,Industrial production index,m,0,100,0,0,0,1,1,MoM % chg.,pch,Manufacturing
+DGORDER,Manufacturers’ new orders: Durable goods,m,0,1,0,1,0,1,1,MoM % chg.,pch,Manufacturing
+WHLSLRIMSA,Merchant wholesalers: Total inventories,m,0,1,0,0,0,1,0,MoM % chg.,pch,Manufacturing
+BUSINV,Total business inventories,m,0,1,0,1,0,1,0,MoM % chg.,pch,Manufacturing
+AMDMVS,Manufacturer’s shipments: Durable goods,m,0,1,0,1,0,1,1,MoM % chg.,pch,Manufacturing
+AMDMUO,Manufacturers’ unfilled orders: All industries,m,0,1,0,1,0,1,0,MoM % chg.,pch,Manufacturing
+AMDMTI,Manufacturers’ inventories: Durable goods,m,0,1,0,1,0,1,0,MoM % chg.,pch,Manufacturing
+HSN1F,New single-family houses sold,m,0,1,0,0,0,1,1,MoM % chg.,pch,Housing and Construction
+HOUST,Housing starts,m,0,1,0,0,0,1,1,MoM % chg.,pch,Housing and Construction
+TTLCONS,Value of construction put in place,m,0,1,0,0,0,1,1,MoM % chg.,pch,Housing and Construction
+PERMIT,Building permits,m,0,1,0,0,0,1,1,Level chg. (thousands),chg,Housing and Construction
+RSAFS,Retail sales and food services,m,0,1,0,1,0,1,1,MoM % chg.,pch,Retail and Consumption
+PCEC96,Real personal consumption expenditures,m,0,1,0,0,0,1,1,MoM % chg.,pch,Retail and Consumption
+DSPIC96,Real disposable personal income,m,0,1,0,0,0,1,1,MoM % chg.,pch,Income
+BOPTEXP,Exports: Goods and services,m,0,1,0,1,0,1,1,MoM % chg.,pch,International Trade
+BOPTIMP,Imports: Goods and services,m,0,1,0,1,0,1,1,MoM % chg.,pch,International Trade
+IR,Import price index,m,0,1,0,1,0,0,0,MoM % chg.,pch,International Trade
+IQ,Export price index,m,0,1,0,1,0,0,0,MoM % chg.,pch,International Trade
+CPIAUCSL,CPI-U: All items,m,0,1,0,1,0,0,0,MoM % chg.,pch,Prices
+CPILFESL,CPI-U: All items less food and energy,m,0,1,0,1,0,0,0,MoM % chg.,pch,Prices
+PCEPI,PCE: Chain price index,m,0,1,0,100,0,0,0,MoM % chg.,pch,Prices
+PCEPILFE,PCE less food and energy: Chain price index,m,0,1,0,1,0,0,0,MoM % chg.,pch,Prices
+PRS85006112,Nonfarm business sector: Unit labor cost,q,0,1,0,0,1,0,0,QoQ % chg. AR,pca,Labor
+A261RX1Q020SBEA,Real gross domestic income,q,1,1,0,0,0,1,1,QoQ % chg. AR,pca,Income
+GDPC1,Real gross domestic product,q,1,1,0,0,0,1,1,QoQ % chg. AR,pca,Income
